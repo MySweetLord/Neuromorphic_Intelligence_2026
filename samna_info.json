@@ -1,7 +1,7 @@
 {
     "serial_number": "00000020",
-    "sender_port": "tcp://0.0.0.0:42705",
-    "receiver_port": "tcp://0.0.0.0:36809",
+    "sender_port": "tcp://0.0.0.0:40513",
+    "receiver_port": "tcp://0.0.0.0:40685",
     "samna_node_id": 1,
     "device_name": "Dynapse1DevKit",
     "python_node_id": 2
